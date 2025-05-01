@@ -6,6 +6,7 @@ A simple team management app built with the MERN stack.
 ## 🛠 Quick Start
 
 ### Prerequisites
+-React.js
 - Node.js
 - MongoDB
 
