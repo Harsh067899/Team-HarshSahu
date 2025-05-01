@@ -1,8 +1,8 @@
-# Team Phoenix 🚀
+# Team Phoenix ==>[Harsh Sahu(RA2211056010124),Kushal Rathi(RA2211056010115),Yash Raj Nanda(RA2211056010138)]
 
 A simple team management app built with the MERN stack.
 
-## 🛠️ Quick Start
+## 🛠 Quick Start
 
 ### Prerequisites
 - Node.js
